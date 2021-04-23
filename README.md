@@ -1,3 +1,3 @@
 # Ubuntu
-Hello Linux World
+Hello World
 GitHub and Linux :books:
